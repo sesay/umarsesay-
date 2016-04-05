@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+/** font Stles here **/
+
+@font-face {
+font-family:'Karbon-Hairline';
+font-style:normal;
+src:local('Karbon-Hairline'), local('Karbon-Hairline'), url(../_fonts/Karbon-Hairline.eot) format('eot'),url(../_fonts/Karbon-Hairline.otf) format('otf'),url(../_fonts/Karbon-Hairline.svg) format('svg'),url(../_fonts/Karbon-Hairline.ttf) format('ttf'),url(../_fonts/Karbon-Hairline.woff) format('woff');
+}
+
+@font-face {
+font-family:'Karbon-Light';
+font-style:normal;
+src:local('Karbon-Light'), local('Karbon-Light'), url(../_fonts/Karbon-Light.eot) format('eot'),url(../_fonts/Karbon-Light.otf) format('otf'),url(../_fonts/Karbon-Light.svg) format('svg'),url(../_fonts/Karbon-Light.ttf) format('ttf'),url(../_fonts/Karbon-Light.woff) format('woff');
+}
+
+@font-face {
+font-family:'Karbon-Thin';
+font-style:normal;
+src:local('Karbon-Thin'), local('Karbon-Thin'), url(../_fonts/Karbon-Thin.eot) format('eot'),url(../_fonts/Karbon-Thin.otf) format('otf'),url(../_fonts/Karbon-Thin.svg) format('svg'),url(../_fonts/Karbon-Thin.ttf) format('ttf'),url(../_fonts/Karbon-Thin.woff) format('woff');
+}
+@font-face {
+font-family:'Karbon-Medium';
+font-style:normal;
+src:local('Karbon-Medium'), local('Karbon-Medium'), url(../_fonts/Karbon-Medium.eot) format('eot'),url(../_fonts/Karbon-Medium.otf) format('otf'),url(../_fonts/Karbon-Medium.svg) format('svg'),url(../_fonts/Karbon-Medium.ttf) format('ttf'),url(../_fonts/Karbon-Medium.woff) format('woff');
+}
+/** ends here **/
